@@ -1,0 +1,16 @@
+[
+  {
+    "id": "12345",
+    "title": "Book",
+    "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "description": "Book Description",
+    "price": 19.99
+  },
+  {
+    "id": "86545",
+    "title": "Laptop",
+    "image_url": "https://cdn.cimri.io/image/1200x1200/appledizstbilgisayarfiyatlar_650662158.jpg",
+    "description": "Laptop Description",
+    "price": 1000
+  }
+]
